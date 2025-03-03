@@ -75,4 +75,4 @@ Q_{out,1} = k_1 \sqrt{h_1}, \quad Q_{out,2} = k_2 \sqrt{h_2}
 - Explore **nonlinear control methods** for better performance.  
 
 ### **Acknowledgments**  
-This project is part of **Robotic Principles Coursework (5ELEN018W)** at **University of Westminster**.  
+This project is part of **Robotic Principles Coursework (5ELEN018W)** at **University of Westminster**...
